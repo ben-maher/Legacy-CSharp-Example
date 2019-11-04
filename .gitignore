@@ -1,0 +1,14 @@
+
+Supermarket.ShoppingBasket/App.config
+/.vs/Supermarket
+/Basket/bin/Debug
+/Basket/obj
+/Basket/Properties
+/dataaccess.supermarket/bin/Debug
+/dataaccess.supermarket/obj
+/dataaccess.supermarket/Properties
+/packages/EntityFramework.6.1.3
+/Supermarket/obj
+/Supermarket/Properties
+/Supermarket.ShoppingBasket/bin/Debug
+/Supermarket.ShoppingBasket/obj
